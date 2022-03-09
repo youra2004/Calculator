@@ -1,0 +1,57 @@
+.calculator {
+  width: 100%;
+}
+.counter {
+  text-align: right;
+  background-color: #858694;
+  color: white;
+  font-size: 95px;
+  padding-right: 50px;
+}
+.components {
+  width: 100%;
+}
+.number {
+  display: inline-block;
+  outline: 1px solid #858694;
+  font-size: 80px;
+  height: 126px;
+  width: 25%;
+  text-align: center;
+  background-color: #e0e0e0;
+}
+.number button {
+  border: 0;
+  font-size: 60px;
+  background-color: #e0e0e0;
+}
+.count {
+  display: inline-block;
+  outline: 1px solid #858694;
+  font-size: 80px;
+  height: 126px;
+  width: 25%;
+  text-align: center;
+  background-color: #f5923e;
+}
+.count button {
+  border: 0;
+  font-size: 60px;
+  background-color: #f5923e;
+  color: white;
+}
+.zero {
+  display: inline-block;
+  outline: 1px solid #858694;
+  border: 1;
+  font-size: 80px;
+  height: 126px;
+  width: 50%;
+  text-align: center;
+  background-color: #e0e0e0;
+}
+.zero button {
+  border: 0;
+  font-size: 60px;
+  background-color: #e0e0e0;
+}
